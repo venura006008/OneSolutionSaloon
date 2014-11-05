@@ -29,6 +29,7 @@
             <li><a runat="server" href="~/">Home</a></li>
             <li><a runat="server" href="~/About">About</a></li>
             <li><a runat="server" href="~/Contact">Contact</a></li>
+            <li><a id="A1" runat="server" href="~/Contact">Appoinment</a></li>
         </ul>
     </aside>
 </asp:Content>
